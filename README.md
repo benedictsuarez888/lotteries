@@ -3,7 +3,7 @@ Process Diagram for Lotteries using Ethereum and Hyperledger
 
 ## Using Ethereum (Done.)
 ### 1. Simple
-![](Lotteries1-Simple (Ethereum).jpg)
+![](https://ibb.co/kmBN6GH)
 ### 2. Recurring
 ![](Lotteries1-Recurring (Ethereum).jpg)
 ### 3. Rng
