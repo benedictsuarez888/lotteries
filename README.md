@@ -2,13 +2,13 @@
 Process Diagram for Lotteries using Ethereum and Hyperledger
 
 ## Using Ethereum (Done.)
-<pre>fabric-samples/
-  | ---- Lotteries using Ethereum/
-              | ---- Lotteries-Powerball.jpg
-              | ---- Lotteries-Recurring.jpg
-              | ---- Lotteries-Rng.jpg
-              | ---- Lotteries-Simple.jpg
-</pre>
+### 1. Simple
+### 2. Recurring
+### 3. Rng
+### 4. Powerball
 
-
-## Using Hyperledger (On going.)
+## Using Hyperledger (Done.)
+### 1. Simple
+### 2. Recurring
+### 3. Rng
+### 4. Powerball
